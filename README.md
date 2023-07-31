@@ -1,7 +1,7 @@
 
 
 ```python
-# Exemplo de casa de apostas
+ casa de apostas
 
 saldo = 1000  # Saldo inicial do usuário
 
@@ -27,7 +27,7 @@ def resultado_aposta():
     # Retorna True se o usuário ganhou a aposta, False caso contrário
     pass
 
-# Exemplo de uso
+
 realizar_aposta(100, 2.5)  # Realiza uma aposta com valor de 100 e odd de 2.5
 ```
 
